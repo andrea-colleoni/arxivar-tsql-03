@@ -1,0 +1,1 @@
+UPDATE STATISTICS [dbo].[persone] with fullscan

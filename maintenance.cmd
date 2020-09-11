@@ -1,0 +1,1 @@
+sqlcmd -i "C:\Users\andre\Desktop\Temp\Corsi\Able Tech\T-SQL\arxivar-tsql-03\22-update statistics.sql"
